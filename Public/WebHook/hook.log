@@ -1,0 +1,285 @@
+Updating 50439ea..7282217
+Fast-forward
+ App/ADMIN/Controller/Plan.php      |   23 +++++++++++++++++++++++
+ App/ADMIN/View/Plan/PlanForDay.php |    3 +++
+ 2 files changed, 26 insertions(+), 0 deletions(-)
+Updating 7282217..1ab6d6d
+Fast-forward
+ App/ADMIN/Controller/Plan.php |    4 ++--
+ Core/Extend/Session.php       |    5 -----
+ 2 files changed, 2 insertions(+), 7 deletions(-)
+Updating 1ab6d6d..4d640bb
+Fast-forward
+ App/ADMIN/Controller/Plan.php      |    4 ++--
+ App/ADMIN/View/Plan/PlanForDay.php |    2 +-
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+Updating 4d640bb..940d4cf
+Fast-forward
+ App/WWW/Controller/CronPlan.php      |    4 ++--
+ App/WWW/Controller/CronPlanQuery.php |    5 ++---
+ App/WWW/Controller/Index.php         |   20 ++++++++++++++++----
+ 3 files changed, 20 insertions(+), 9 deletions(-)
+Updating 940d4cf..4de5537
+Fast-forward
+ App/ADMIN/Controller/Plan.php |    4 +++-
+ 1 files changed, 3 insertions(+), 1 deletions(-)
+Updating 4de5537..3f73bce
+Fast-forward
+ App/ADMIN/Controller/Plan.php |  121 ++++++++---------------------------------
+ 1 files changed, 24 insertions(+), 97 deletions(-)
+Updating 3f73bce..1ac67db
+Fast-forward
+ App/ADMIN/View/Plan/PlanForDay.php |    4 ++--
+ 1 files changed, 2 insertions(+), 2 deletions(-)
+Updating 1ac67db..83e4995
+Fast-forward
+ App/ADMIN/View/Plan/PlanForDay.php |    4 ++--
+ 1 files changed, 2 insertions(+), 2 deletions(-)
+Updating 83e4995..59e0eb3
+Fast-forward
+ App/WWW/Controller/Index.php |    4 ++++
+ Core/Lib.php                 |   12 ++++++++++++
+ 2 files changed, 16 insertions(+), 0 deletions(-)
+Updating 59e0eb3..0e78189
+Fast-forward
+ App/WWW/Model/Paf.php |    4 ++++
+ 1 files changed, 4 insertions(+), 0 deletions(-)
+Updating 0e78189..fd3f424
+Fast-forward
+ App/WWW/Controller/CronJpush.php |   11 ++++++-----
+ 1 files changed, 6 insertions(+), 5 deletions(-)
+Updating fd3f424..7e1aae7
+Fast-forward
+ App/WWW/Controller/CronJpush.php |    4 ++--
+ 1 files changed, 2 insertions(+), 2 deletions(-)
+Updating 7e1aae7..3af36cc
+Fast-forward
+ App/WWW/Controller/CronJpush.php |   10 ++++++----
+ 1 files changed, 6 insertions(+), 4 deletions(-)
+Updating 3af36cc..dc2a090
+Fast-forward
+ App/WWW/Controller/CronJpush.php |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+Updating dc2a090..685c5c6
+Fast-forward
+ App/WWW/Controller/CronJpush.php |    2 ++
+ 1 files changed, 2 insertions(+), 0 deletions(-)
+Updating 685c5c6..91a8915
+Fast-forward
+ App/WWW/Controller/CronPlan.php |   11 +++++++++++
+ 1 files changed, 11 insertions(+), 0 deletions(-)
+Updating 91a8915..ce9996d
+Fast-forward
+ App/WWW/Controller/CronPlan.php |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+Updating ce9996d..cd13660
+Fast-forward
+ App/ADMIN/View/Plan/index.php          |    4 ++--
+ App/ADMIN/View/PlanList/ListForDay.php |    2 +-
+ App/WWW/Controller/CronPlan.php        |    4 ++--
+ 3 files changed, 5 insertions(+), 5 deletions(-)
+Updating cd13660..815f89b
+Fast-forward
+ App/ADMIN/Controller/Plan.php |    1 +
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+Updating 815f89b..0984a27
+Fast-forward
+ App/ADMIN/View/Plan/index.php |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+Updating 0984a27..7826b37
+Fast-forward
+ App/WWW/Controller/Index.php |    7 +++++++
+ App/WWW/Model/Cron.php       |    4 ++--
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+Updating 7826b37..5d81792
+Fast-forward
+ App/WWW/Model/Index.php |   14 ++++++++++++++
+ 1 files changed, 14 insertions(+), 0 deletions(-)
+ create mode 100644 App/WWW/Model/Index.php
+Updating 5d81792..8019296
+Fast-forward
+ App/WWW/Controller/CronAgent.php |   38 ++++++++++++++++++++++++++++++++++++++
+ App/WWW/Controller/Index.php     |   23 ++++++++++++++++++++++-
+ App/WWW/Model/CronAgent.php      |   14 ++++++++++++++
+ 3 files changed, 74 insertions(+), 1 deletions(-)
+ create mode 100644 App/WWW/Controller/CronAgent.php
+ create mode 100644 App/WWW/Model/CronAgent.php
+Updating 8019296..a8f0f30
+Fast-forward
+ App/WWW/Controller/CronAgent.php |   29 ++++++++++++++++++++++++-----
+ 1 files changed, 24 insertions(+), 5 deletions(-)
+Updating a8f0f30..9f94b69
+Fast-forward
+ App/WWW/Controller/CronAgent.php |   16 +++++++++++-
+ App/WWW/Model/Cron.php           |   48 ++++++++++++++++++++++++++++++++++---
+ 2 files changed, 58 insertions(+), 6 deletions(-)
+Updating 9f94b69..7fafd68
+Fast-forward
+ App/WWW/Controller/CronAgent.php |    2 ++
+ App/WWW/Model/Cron.php           |   23 ++++++++++++-----------
+ 2 files changed, 14 insertions(+), 11 deletions(-)
+Updating 7fafd68..f862e2d
+Fast-forward
+ App/WWW/Model/Cron.php |    1 +
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+Updating f862e2d..de7139d
+Fast-forward
+ App/CALL/Model/GatherNotice.php |   29 +++++++++++++---
+ App/CALL/Model/Gdb.php          |   72 ---------------------------------------
+ App/WWW/Model/Cron.php          |    2 +-
+ 3 files changed, 25 insertions(+), 78 deletions(-)
+Updating de7139d..acdd2cc
+Fast-forward
+ App/CALL/Model/GatherNotice.php |    1 -
+ 1 files changed, 0 insertions(+), 1 deletions(-)
+Updating acdd2cc..a26c438
+Fast-forward
+ App/WWW/Controller/CronAgent.php |    6 ++----
+ 1 files changed, 2 insertions(+), 4 deletions(-)
+Updating a26c438..04d2b78
+Fast-forward
+ App/WWW/Controller/CheckPlan.php |   66 ++++++++++++++++++++++++++++++++++++++
+ App/WWW/Model/CheckPlan.php      |   14 ++++++++
+ 2 files changed, 80 insertions(+), 0 deletions(-)
+ create mode 100644 App/WWW/Controller/CheckPlan.php
+ create mode 100644 App/WWW/Model/CheckPlan.php
+Updating 04d2b78..129285a
+Fast-forward
+ App/WWW/Controller/CheckPlan.php |   41 +++++++++++++++++++++++--------------
+ 1 files changed, 25 insertions(+), 16 deletions(-)
+Updating 129285a..04d4019
+Fast-forward
+ App/WWW/Controller/CronPlan.php      |    8 ++++++--
+ App/WWW/Controller/CronPlanQuery.php |    8 ++++----
+ App/WWW/Model/Cron.php               |   24 ++++++++++++++++++++++--
+ App/WWW/Model/Paf.php                |    4 +++-
+ 4 files changed, 35 insertions(+), 9 deletions(-)
+Updating 04d4019..b8bb37d
+Fast-forward
+ App/WWW/Controller/CronPlan.php |   18 +++++++++++-------
+ App/WWW/Model/Cron.php          |    6 ++++--
+ 2 files changed, 15 insertions(+), 9 deletions(-)
+Updating b8bb37d..79c89a4
+Fast-forward
+ App/WWW/Controller/CronPlan.php |    6 ++++++
+ App/WWW/Model/Paf.php           |    8 ++++++--
+ 2 files changed, 12 insertions(+), 2 deletions(-)
+Updating 79c89a4..670bb12
+Fast-forward
+ App/WWW/Model/Cron.php |   50 ++++++++++++++++++++++++-----------------------
+ 1 files changed, 26 insertions(+), 24 deletions(-)
+Updating 670bb12..0ddca6d
+Fast-forward
+ App/WWW/Controller/CheckPlan.php |    5 ++++-
+ 1 files changed, 4 insertions(+), 1 deletions(-)
+Updating 0ddca6d..15b2772
+Fast-forward
+ App/WWW/Controller/PageNotify.php       |  198 ++
+ App/WWW/Controller/PrePostData.php      |  364 +++
+ App/WWW/Model/ApiCall.php               |   67 +
+ App/WWW/Model/Order.php                 |  110 +
+ App/WWW/Model/User.php                  |   48 +
+ App/WWW/View/YjPay/channelInfoCheck.php |  106 +
+ App/WWW/View/YjPay/openPayAccount.php   |   16 +
+ App/WWW/View/YjPay/withDraw.php         |   78 +
+ Config/Config.php                       |   11 +
+ Core/Base/Controller.php                |    5 +-
+ Core/Base/View.php                      |    5 +-
+ Core/Extend/FileLog.php                 |    2 +-
+ Core/Sign.php                           |    8 +-
+ Public/Static/js/jquery-3.3.1.min.js    |    2 +
+ Public/Static/js/yjf/getSign.js         |   32 +
+ Public/Static/js/yjf/uploadImg.js       |   35 +
+ app/CALL/Controller/AsyncNotify.php     |  107 +
+ app/WWW/Model/upstreamUrl.php           |   17 +
+ app/www/Controller/YjPay.php            |   90 +
+ app/www/Model/Card.php                  |   66 +
+ app/www/Model/DAO/Card.php              |   59 +
+ app/www/Model/DAO/CardChannel.php       |   21 +
+ app/www/Model/DAO/Order.php             |   31 +
+ app/www/Model/DAO/Profit.php            |   21 +
+ app/www/Model/DAO/User.php              |   33 +
+ app/www/Model/DAO/WithDrawDetail.php    |   26 +
+ public/Static/css/yjf/core.css          | 3718 +++++++++++++++++++++++++++++++
+ 27 files changed, 5270 insertions(+), 6 deletions(-)
+ create mode 100644 App/WWW/Controller/PageNotify.php
+ create mode 100644 App/WWW/Controller/PrePostData.php
+ create mode 100644 App/WWW/Model/ApiCall.php
+ create mode 100644 App/WWW/Model/Order.php
+ create mode 100644 App/WWW/Model/User.php
+ create mode 100644 App/WWW/View/YjPay/channelInfoCheck.php
+ create mode 100644 App/WWW/View/YjPay/openPayAccount.php
+ create mode 100644 App/WWW/View/YjPay/withDraw.php
+ create mode 100644 Public/Static/js/jquery-3.3.1.min.js
+ create mode 100644 Public/Static/js/yjf/getSign.js
+ create mode 100644 Public/Static/js/yjf/uploadImg.js
+ create mode 100644 app/CALL/Controller/AsyncNotify.php
+ create mode 100644 app/WWW/Model/upstreamUrl.php
+ create mode 100644 app/www/Controller/YjPay.php
+ create mode 100644 app/www/Model/Card.php
+ create mode 100644 app/www/Model/DAO/Card.php
+ create mode 100644 app/www/Model/DAO/CardChannel.php
+ create mode 100644 app/www/Model/DAO/Order.php
+ create mode 100644 app/www/Model/DAO/Profit.php
+ create mode 100644 app/www/Model/DAO/User.php
+ create mode 100644 app/www/Model/DAO/WithDrawDetail.php
+ create mode 100644 public/Static/css/yjf/core.css
+Updating 15b2772..5b8fb15
+Fast-forward
+ app/www/Controller/YjPay.php |    1 -
+ 1 files changed, 0 insertions(+), 1 deletions(-)
+Already up-to-date.
+Merge made by recursive.
+ App/CALL/Controller/AsyncNotify.php  |  107 +
+ App/WWW/Controller/YjPay.php         |   89 +
+ App/WWW/Model/Card.php               |   66 +
+ App/WWW/Model/DAO/Card.php           |   59 +
+ App/WWW/Model/DAO/CardChannel.php    |   21 +
+ App/WWW/Model/DAO/Order.php          |   31 +
+ App/WWW/Model/DAO/Profit.php         |   21 +
+ App/WWW/Model/DAO/User.php           |   33 +
+ App/WWW/Model/DAO/WithDrawDetail.php |   26 +
+ App/WWW/Model/upstreamUrl.php        |   17 +
+ Public/Static/css/yjf/core.css       | 3718 ++++++++++++++++++++++++++++++++++
+ 11 files changed, 4188 insertions(+), 0 deletions(-)
+ create mode 100644 App/CALL/Controller/AsyncNotify.php
+ create mode 100644 App/WWW/Controller/YjPay.php
+ create mode 100644 App/WWW/Model/Card.php
+ create mode 100644 App/WWW/Model/DAO/Card.php
+ create mode 100644 App/WWW/Model/DAO/CardChannel.php
+ create mode 100644 App/WWW/Model/DAO/Order.php
+ create mode 100644 App/WWW/Model/DAO/Profit.php
+ create mode 100644 App/WWW/Model/DAO/User.php
+ create mode 100644 App/WWW/Model/DAO/WithDrawDetail.php
+ create mode 100644 App/WWW/Model/upstreamUrl.php
+ create mode 100644 Public/Static/css/yjf/core.css
+Merge made by recursive.
+ App/WWW/View/YjPay/channelInfoCheck.php |    2 +-
+ App/WWW/View/YjPay/withDraw.php         |    2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+Merge made by recursive.
+ App/WWW/Controller/PageNotify.php |    6 +++---
+ 1 files changed, 3 insertions(+), 3 deletions(-)
+Merge made by recursive.
+ App/WWW/Controller/PageNotify.php |    6 ++++++
+ 1 files changed, 6 insertions(+), 0 deletions(-)
+Merge made by recursive.
+ App/WWW/Controller/PageNotify.php |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+Auto-merging Core/Sign.php
+CONFLICT (content): Merge conflict in Core/Sign.php
+Automatic merge failed; fix conflicts and then commit the result.
+M	App/WWW/Controller/PageNotify.php
+U	Core/Sign.php
+M	App/WWW/Controller/PageNotify.php
+U	Core/Sign.php
+M	App/WWW/Controller/PageNotify.php
+U	Core/Sign.php
+M	App/WWW/Controller/PageNotify.php
+U	Core/Sign.php
+M	App/WWW/Controller/PageNotify.php
+U	Core/Sign.php
+M	App/WWW/Controller/PageNotify.php
+U	Core/Sign.php
+M	App/WWW/Controller/PageNotify.php
+U	Core/Sign.php

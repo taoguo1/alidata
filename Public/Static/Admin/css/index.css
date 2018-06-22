@@ -1,0 +1,58 @@
+.statistics .content{
+	width:220px;
+	height:100px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	color: #3b86ad;
+}
+.statistics .top{
+	display: flex;
+	justify-content: space-between;
+	height:70px;
+	width: 100%;
+	background: #8ed8fc;
+
+}
+.statistics .top .left{
+	margin-top: 8px;
+	padding-left: 20px;
+}
+.statistics .top .right{
+	line-height: 70px;
+	padding-right: 70px;
+}
+.statistics .bottom{
+	display: flex;
+	justify-content: space-between;
+	background: #f5f5f5;
+}
+.statistics .bottom .right{
+	margin-top:5px;
+	padding-right: 20px;
+}
+.statistics .bottom .left{
+	line-height:30px;
+	padding-left: 20px;
+}
+.statistics .subTitle{
+	background-color: #0ab0ff;
+	color: #ffffff;
+}
+.statistics .movements{
+	margin-left: 10px;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+.statistics .summary{
+	margin-left: 10px;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+.thisclick{
+	color:#f90 !important;
+	cursor: pointer !important;
+	
+}
+.thisclick input{
+	color:#f90;
+}
